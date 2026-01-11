@@ -1,12 +1,14 @@
 # Hardhat-Beginners-Project
 Basically a beginners Project just to understand the standalone environment provided by hardhat to compile, build , test  and deploy the ethereum apps or Dapps.
-Initially just follow these command to run a complete project first after knowing the procedure, you can build your OWN Project. 
+Initially just follow these command to run a complete project first after knowing the procedure, you can build your own Project. 
 
 
 ### 1. Create Hardhat project and install all dependencies:
 Then after creating myapp, install hardhat and dependencies in the same folder.
 to install first use this command:
 ```
+npm init -y
+
 npm install --save-dev hardhat@hh2
 ```
 ### 2. This Hardhat command will create Template for dapp:
